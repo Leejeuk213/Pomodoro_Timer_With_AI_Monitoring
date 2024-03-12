@@ -1,4 +1,4 @@
-# 인천대 SW 대회 진행 프로젝트  
+# 인천대 SW 대회 프로젝트  
 자세한 진행상황  
 https://tall-scooter-035.notion.site/UM-G-Project-de467ad62b6541579e8f27789f57276f
 
